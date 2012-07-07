@@ -1,0 +1,1 @@
+Proto({~isPlaying = false});

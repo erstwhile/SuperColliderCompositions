@@ -1,0 +1,1 @@
+Set[ 'waitFunc', 'countingFunc', 'i', 'iCPU', 'allServers', 'pitchFunc', 'panFunc', 'relFunc', 'iFils', 'synthFactory', 'susFunc', 'mylib', 'iX', 'lFunc', 'iT', 'r', 'clock', 'atkFunc', 'kFunc', 'harmonicFunc', 'ampFunc', 'notesFunc', 'pFunc', 'play', 'tempo', 'archive', 'incrementFunc', 'iFac', 'iI', 'iF', 'iB', 'panel', 'iIll' ]
